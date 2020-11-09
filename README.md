@@ -1,6 +1,6 @@
 "# youtubecc-summarizer" 
 
 By
-Ankita
-Gokul
-Vaibhav
+Ankita\n
+Gokul\n
+Vaibhav\n
